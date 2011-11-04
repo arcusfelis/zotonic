@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# NB: Consider using poEdit <http://poedit.sourceforge.net>
+# Uvarov Michael <freeakk@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mod_seo 0.1\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2011-06-26 21:10+0400\n"
+"Last-Translator: Uvarov Michael <freeakk@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: utf-8\n"
+"Plural-Forms: \n"
+
+#: modules/mod_seo/templates/admin_seo.tpl:30
+msgid "Add a noindex, nofollow element to all pages."
+msgstr "Добавить инструкцию noindex, nofollow на всех станицы."
+
+#: modules/mod_seo/templates/admin_seo.tpl:25
+msgid "Description to include on every page"
+msgstr "Описание для всех страниц"
+
+#: modules/mod_seo/templates/admin_seo.tpl:32
+msgid "Exclude this site from search engines"
+msgstr "Запретить поисковым роботам индексировать сайт"
+
+#: modules/mod_seo/templates/admin_seo.tpl:16
+msgid "General SEO Optimization"
+msgstr "Базовая поисковая оптимизация"
+
+#: modules/mod_seo/templates/admin_seo.tpl:13
+msgid ""
+"Here you find settings to optimize the indexing of your site by search "
+"engines."
+msgstr ""
+"Настройки сайта для оптимизации процесса индексирования поисковыми системами."
+
+#: modules/mod_seo/templates/admin_seo.tpl:20
+#: modules/mod_seo/templates/admin_seo.tpl:43
+msgid "Save SEO settings"
+msgstr "Сохранить настройки поисковой оптимизации"
+
+#: modules/mod_seo/templates/admin_seo.tpl:3
+#: modules/mod_seo/templates/admin_seo.tpl:12
+msgid "Search Engine Optimization"
+msgstr "Поисковая оптимизация"

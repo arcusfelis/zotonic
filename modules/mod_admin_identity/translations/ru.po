@@ -1,0 +1,216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# NB: Consider using poEdit <http://poedit.sourceforge.net>
+# Uvarov Michael <freeakk@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2011-06-27 17:16+0400\n"
+"Last-Translator: Uvarov Michael <freeakk@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: utf-8\n"
+"Plural-Forms: \n"
+
+#: modules/mod_admin_identity/templates/_admin_edit_sidebar.person.tpl:10
+msgid "Add or remove credentials."
+msgstr "Добавить или удалить учётные данные пользователя."
+
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:57
+msgid "Add user"
+msgstr "Добавить пользователя"
+
+#: modules/mod_admin_identity/templates/_action_dialog_delete_username.tpl:2
+msgid "Are you sure you want to delete the username from"
+msgstr "Вы уверены в том, что хотите удалить пользователя из"
+
+#: modules/mod_admin_identity/templates/_action_dialog_delete_username.tpl:7
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:58
+#: modules/mod_admin_identity/templates/_action_dialog_set_username_password.tpl:37
+msgid "Cancel"
+msgstr "Отмена"
+
+#: modules/mod_admin_identity/templates/_action_dialog_set_username_password.tpl:9
+msgid ""
+"Click “delete” to remove any existing username/ password from the person, "
+"the person won't be an user anymore."
+msgstr "Запретить человеку доступ на сайт с этими учётными данными."
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:42
+msgid "Created on"
+msgstr "Добавлен"
+
+#: modules/mod_admin_identity/templates/_action_dialog_delete_username.tpl:6
+#: modules/mod_admin_identity/templates/_action_dialog_set_username_password.tpl:40
+msgid "Delete"
+msgstr "Удалить"
+
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:30
+msgid "E-mail"
+msgstr "Адрес электронной почты"
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:21
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:12
+msgid "First"
+msgstr "Имя"
+
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:39
+#: modules/mod_admin_identity/templates/_action_dialog_set_username_password.tpl:7
+msgid ""
+"Give an unique username and a password. Usernames and passwords are case "
+"sensitive, so be careful when entering them."
+msgstr "Задайте уникальный логин и пароль. Учтите, что они регистрозависимы."
+
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:8
+msgid ""
+"Give the name and the e-mail address of the new user. A <em>person</em> page "
+"will be created for this user."
+msgstr ""
+"Задайте имя и электронный почтовый адрес для нового пользователя. "
+"Пользовательская страничка будет создана автоматически."
+
+#: modules/mod_admin_identity/templates/_admin_edit_sidebar.person.tpl:11
+msgid "Help about user credentials."
+msgstr "Подробнее об учетных данных пользователя."
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:12
+msgid "Make a new user"
+msgstr "Добавить пользователя"
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:41
+msgid "Modified on"
+msgstr "Изменено"
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:39
+msgid "Name"
+msgstr "Имя"
+
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:6
+msgid "Name and e-mail address"
+msgstr "Имя и адрес электронной почты"
+
+#: modules/mod_admin_identity/templates/_admin_edit_sidebar.person.tpl:11
+msgid "Need more help?"
+msgstr "Подробнее"
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:63
+msgid "No users found."
+msgstr "Ни одного пользователя не найдено."
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:43
+msgid "Options"
+msgstr "Настройки"
+
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:50
+#: modules/mod_admin_identity/templates/_action_dialog_set_username_password.tpl:26
+msgid "Password"
+msgstr "Пароль"
+
+#: modules/mod_admin_identity/templates/_action_dialog_set_username_password.tpl:35
+msgid "Save"
+msgstr "Сохранить"
+
+#: modules/mod_admin_identity/templates/_admin_edit_sidebar.person.tpl:24
+msgid "Set username / password"
+msgstr "Задать пару логин / пароль"
+
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:18
+msgid "Sur. prefix"
+msgstr "Фамильная приставка"
+
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:24
+msgid "Surname"
+msgstr "Фамилия"
+
+#: modules/mod_admin_identity/templates/_action_dialog_set_username_password.tpl:3
+msgid ""
+"The password of the admin user cannot be changed in the database. Please "
+"edit your site's configuration file at"
+msgstr ""
+"В целях безопасности, пароль главного администратора хранится не в базе "
+"данных, а в файле настроек сайта по адресу"
+
+#: modules/mod_admin_identity/templates/_action_dialog_delete_username.tpl:4
+msgid "This can't be undone. The username and password will be lost forever."
+msgstr ""
+"Это действие невозможно отменить. Пата логин / пароль будет уничтожена."
+
+#: modules/mod_admin_identity/templates/_admin_edit_sidebar.person.tpl:16
+msgid "This person is also a user."
+msgstr "Этот человек имеет права пользователя. "
+
+#: modules/mod_admin_identity/templates/_admin_edit_sidebar.person.tpl:18
+msgid "This person is not yet a user."
+msgstr "Этот человек ещё не имеет учётной записи."
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:40
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:44
+#: modules/mod_admin_identity/templates/_action_dialog_set_username_password.tpl:20
+msgid "Username"
+msgstr "Логин"
+
+#: modules/mod_admin_identity/templates/_admin_edit_sidebar.person.tpl:5
+msgid "Username / password"
+msgstr "Логин / пароль"
+
+#: modules/mod_admin_identity/templates/_action_dialog_user_add.tpl:37
+msgid "Username and password"
+msgstr "Логин и пароль"
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:3
+#: modules/mod_admin_identity/templates/admin_users.tpl:32
+#: modules/mod_admin_identity/templates/_admin_menu_module.tpl:2
+msgid "Users"
+msgstr "Пользователи"
+
+#: modules/mod_admin_identity/templates/_admin_edit_sidebar.person.tpl:11
+msgid ""
+"When you add credentials to a person then the person becomes an user. A "
+"person or machine can log on with those credentials and perform actions on "
+"your Zotonic system.<br/><br/>What an user can do depends on the groups the "
+"user is member of."
+msgstr ""
+"Вы можете добавить к информации о человеке его учётные данные, которые затем "
+"он сможет использовать для авторизации на сайте.<br/><br/>Пользователи в "
+"разных группах обладают разными правами (например, правами администратора "
+"или редактора)."
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:14
+msgid "You need to be an administrator to add users."
+msgstr ""
+"Чтобы добавлять новых пользователей, Вам необходимо иметь административные "
+"права."
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:55
+msgid "delete username"
+msgstr "уд."
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:57
+msgid "edit"
+msgstr "ред."
+
+#: modules/mod_admin_identity/templates/_action_dialog_set_username_password.tpl:3
+msgid "if you want to change the admin password."
+msgstr "Для изменения пароля администратора."
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:33
+msgid "matching"
+msgstr "совпадение"
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:35
+msgid "overview"
+msgstr "системы"
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:53
+msgid "set username/ password"
+msgstr "изменить логин/пароль"
+
+#: modules/mod_admin_identity/templates/admin_users.tpl:34
+msgid "show all"
+msgstr "показать всё"
